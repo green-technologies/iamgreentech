@@ -20,7 +20,11 @@ const services: Service[] = [
     title: 'Business Software',
     description:
       'Custom tools and internal systems that automate workflows and scale with your business.',
-    points: ['Workflow automation', 'Internal dashboards', 'Third-party integrations'],
+    points: [
+      'Customer Relationship Management (CRM)',
+      'Accounting Software',
+      'Enterprise Resource Planning (ERP)',
+    ],
   },
   {
     icon: Megaphone,
